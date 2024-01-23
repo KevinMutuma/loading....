@@ -1,0 +1,34 @@
+form{
+    margin: auto;
+    width: 50%;
+    padding: 30px;
+    background-color: #01fdef;
+    box-shadow: #000007;
+}
+
+legend{
+    text-align: center;
+    font-size: 30px;
+    font-weight:bold ;
+}
+
+input[type=text].input[type=email],input[type=password] {
+    width: 100px;
+    height: 40px;
+    border-radius: 40px;
+    border-color: #01fd60;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.king{
+
+
+}
+
+
+
+
+
+
+

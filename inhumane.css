@@ -1,0 +1,55 @@
+form{
+    margin: auto;
+    width: 50%;
+    height: 1000px;
+    padding: 30px;
+    background-color: #601414;
+    box-shadow: #000007;
+}
+
+body{
+    background-color: maroon;
+}
+
+legend{
+    text-align: center;
+    font-size: 30px;
+    font-weight:bold ;
+}
+.lll{
+    display: flex;
+}
+.o,.f,.m{
+    margin-top: 20px;
+}
+button{
+    width: 500px;
+    height: 40px;
+    border-radius:5px ;
+    background-color: #ffffff;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+
+input[type=text],input[type=email],input[type=password]{
+    width: 500px;
+    height: 40px;
+    margin-right: 120px;
+    float:right;
+    margin-bottom: 20px;
+}
+select{
+    width: 250px;
+    height: 49px;
+    background-color: lightgrey;
+    margin-left: 240px;
+
+}
+textarea{
+    margin-left: 215px;
+    padding-left: 20px;
+    width: 40%;
+}
+
+abou
